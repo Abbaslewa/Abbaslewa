@@ -1,5 +1,5 @@
 ## Hi I'm Abbas👋
-- 🔭 I’m currently working on building responsive React components {https://abbas-omer.vercel.app/} and enhancing my portfolio.
+- 🔭 I’m currently working on building responsive React components {https://abbas-omer.vercel.app} and enhancing my portfolio.
 - 🌱 I’m currently learning advanced front-end development techniques with React, TailwindCSS, and API integrations.
 - 👯 I’m looking to collaborate on open-source projects and innovative front-end applications.
 - 🤔 I’m looking for help with optimizing performance in complex React applications and improving UI/UX design.
