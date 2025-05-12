@@ -8,7 +8,7 @@
 </div>
 
 ## Sushalmedea
-<h3 style="font-size: 1.5rem; color: #444; font-weight: 600; text-align: center; margin-bottom: 30px;">A passionate frontend developer from Sudan</h3>
+
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin-bottom: 40px;">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
