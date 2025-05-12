@@ -1,9 +1,10 @@
 ## Hi, I'm Abbas 👋
+
 <div style="display: flex; flex-direction: column; gap: 20px; align-items: center; margin-bottom: 40px;">
-  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">🔭 I’m currently working on building responsive React components and enhancing my portfolio.</p>
-  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">🌱 I’m currently learning advanced front-end development techniques with React, TailwindCSS, and API integrations.</p>
-  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">👯 I’m looking to collaborate on open-source projects and innovative front-end applications.</p>
-  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">🤔 I’m looking for help with optimizing performance in complex React applications and improving UI/UX design.</p>
+  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">💻 I'm a passionate Full-Stack Developer with hands-on experience in building modern web applications using React, Node.js, Express, and MongoDB.</p>
+  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">🚀 Currently focused on creating scalable and responsive components, optimizing API performance, and enhancing full-stack application architecture.</p>
+  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">🌐 Skilled in integrating RESTful APIs, managing state with React hooks, and implementing dynamic UIs with TailwindCSS and modern design principles.</p>
+  <p style="font-size: 1.2rem; color: #333; text-align: center; max-width: 800px;">🤝 Open to collaboration on open-source projects, innovative platforms, and teams looking for developers who understand both backend logic and frontend aesthetics.</p>
 </div>
 
 ## Sushalmedea
