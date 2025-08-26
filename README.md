@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abbas
+👋 Hi, I'm Abbas
 
 💻 I'm a passionate **Full-Stack Developer** with experience in building modern web applications using  
 **React, Next.js, Node.js, Express, MongoDB, Nest.js, and TypeScript**.  
@@ -14,7 +14,7 @@
 ## 🔗 Connect with Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ammar-ahmed-44734b337/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abbas-omer-07ab13380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://twitter.com/"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="https://facebook.com/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
@@ -58,10 +58,6 @@
 
 <p align="center">
   <a href="mailto:abbasomerhassn@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/Abbas Hassan/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/abbas-omer-07ab13380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/Abbaslewa"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-
