@@ -1,13 +1,13 @@
 👋 Hi, I'm Abbas
 
-💻 I'm a passionate **Full-Stack Developer** with experience in building modern web applications using  
-**React, Next.js, Node.js, Express, MongoDB, Nest.js, and TypeScript**.  
+ I'm a passionate **Full-Stack Developer** with experience in building modern web applications using  
+React, Next.js, Node.js, Express, MongoDB, Nest.js, and TypeScript**.  
 
-🚀 Previously at **MPost Company**, I contributed to developing scalable and responsive components, optimizing APIs, and improving full-stack architecture.  
+Previously at **MPost Company**, I contributed to developing scalable and responsive components, optimizing APIs, and improving full-stack architecture.  
 
-🌐 Skilled in **RESTful APIs, React Hooks, TailwindCSS**, and building user-friendly UIs with modern design principles.  
+ Skilled in **RESTful APIs, React Hooks, TailwindCSS**, and building user-friendly UIs with modern design principles.  
 
-🤝 Open to collaborating on **open-source projects, innovative platforms, and teams** that need developers who understand both backend logic and frontend aesthetics.  
+ Open to collaborating on **open-source projects, innovative platforms, and teams** that need developers who understand both backend logic and frontend aesthetics.  
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 🚀 Skills & Technologies  
+##  Skills & Technologies  
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
