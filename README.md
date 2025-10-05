@@ -1,23 +1,23 @@
 <!-- 🌟 Modern Developer README for Abbas Lewa -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abbas+Lewa!;💻+Full-Stack+Developer;🚀+Passionate+about+React+%26+Node.js;🌍+Building+modern+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abbas+Lewa!;💻+Full-Stack+Developer;+Passionate+about+React+%26+Node.js;🌍+Building+modern+web+experiences" alt="Typing SVG" />
 </div>
 
 ---
 
-### 🧠 About Me  
+###  About Me  
 
 I’m a **Full-Stack Developer** with strong experience in building **modern, scalable, and interactive** web applications using **React, Next.js, Node.js, Express, Nest.js, MongoDB, and TypeScript**.  
 
-💼 **Previously at MPost Company**, I contributed to:  
-- Developing **responsive** and **scalable components**  
-- Optimizing **APIs** and **backend performance**  
-- Enhancing full-stack architecture and developer experience  
+ **Previously at MPost Company**, I contributed to:  
+ Developing **responsive** and **scalable components**  
+ Optimizing **APIs** and **backend performance**  
+ Enhancing full-stack architecture and developer experience  
 
-🧩 I’m skilled in **React Hooks**, **RESTful APIs**, **TailwindCSS**, and crafting **beautiful UI/UX** that blend design and performance.  
+ I’m skilled in **React Hooks**, **RESTful APIs**, **TailwindCSS**, and crafting **beautiful UI/UX** that blend design and performance.  
 
-💡 Open to collaborating on **innovative projects**, **open-source**, and **creative tech teams** focused on problem-solving and clean architecture.
+ Open to collaborating on **innovative projects**, **open-source**, and **creative tech teams** focused on problem-solving and clean architecture.
 
 ---
 
@@ -29,7 +29,7 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 
 ---
 
-### 🧰 Tools & Platforms  
+###  Tools & Platforms  
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,linux,github,vercel,postman,netlify" />
@@ -40,8 +40,8 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abbaslewa&show_icons=true&theme=radical&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abbaslewa&theme=radical&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
 </p>
 
 <p align="center">
@@ -50,7 +50,7 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 
 ---
 
-### 🌐 Connect with Me  
+###  Connect with Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/abbas-omer-07ab13380/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -65,7 +65,7 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 
 ### ✨ Fun Fact  
 
-> 💬 “Code with logic, design with purpose — and never stop learning.”  
+>  “Code with logic, design with purpose — and never stop learning.”  
 
 ---
 
