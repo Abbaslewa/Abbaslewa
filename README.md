@@ -1,7 +1,7 @@
 <!-- 🌟 Modern Developer README for Abbas Lewa -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abbas+Lewa!;💻+Full-Stack+Developer;+Passionate+about+React+%26+Node.js;🌍+Building+modern+web+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abbas+Lewa!;💻+Full-Stack+Developer;+Passionate+about+React+%26+Node.js;+Building+modern+web+experiences" alt="Typing SVG" />
 </div>
 
 ---
@@ -63,7 +63,7 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 
 ---
 
-### ✨ Fun Fact  
+###  Fun Fact  
 
 >  “Code with logic, design with purpose — and never stop learning.”  
 
