@@ -1,8 +1,11 @@
 
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=👋+Hi%2C+I'm+Abbas+Lewa!;💻+Full-Stack+Developer;+Passionate+about+React+%26+Node.js;+Building+modern+web+experiences" alt="Typing SVG" />
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=2F80ED&center=true&vCenter=true&width=650&lines=👋+Hi,+I'm+Abbas+Lewa;💻+Full-Stack+Developer;+React+%7C+Next.js+%7C+Node.js;✨+Passionate+about+Modern+Web+Experiences)
+
 </div>
+
 
 ---
 
