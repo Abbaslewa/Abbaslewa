@@ -41,12 +41,12 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 ### 📊 GitHub Analytics  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&show_icons=true&count_private=true&theme=dracula&hide_border=false" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maurodesouza&layout=compact&langs_count=6&theme=dracula&hide_border=false" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abbaslewa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abbaslewa&layout=compact&theme=github_dark&hide_border=true" height="170" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abbaslewa&bg_color=1a1b27&color=ffb86c&line=ff79c6&point=bd93f9&area=true&hide_border=true" alt="Abbas Lewa's GitHub Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abbaslewa&theme=github-compact&hide_border=true" />
 </p>
 
 ---
