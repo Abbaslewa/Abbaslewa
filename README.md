@@ -71,8 +71,3 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 
 >  “Code with logic, design with purpose — and never stop learning.”  
 
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90&section=footer"/>
-</div>
