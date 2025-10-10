@@ -36,7 +36,7 @@ I’m a **Full-Stack Developer** with strong experience in building **modern, sc
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,linux,github,gitlab,vercel,postman,netlify,trello" />
+  <img src="https://skillicons.dev/icons?i=vscode,linux,github,gitlab,firebase,gcp,githubactions,vercel,postman,netlify,trello," />
 </p>
 
 
